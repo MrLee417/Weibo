@@ -1,2 +1,6 @@
 test pull and push
 say something new
+
+已经添加了一个文件夹和图片
+
+Git diff
